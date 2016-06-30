@@ -1,0 +1,49 @@
+<movie_collection xmlns:collection="http://movies.com">
+	<movie
+		collection:id="movie 1"
+      	collection:title="Title 1">
+      	<showtimes>
+      		<Showtime1>12:00</Showtime1>
+      		<Showtime2>12:00</Showtime2>
+      		<Showtime3>12:00</Showtime3>
+      	</showtimes>
+      	<emptyElement1></emptyElement1>
+      	<emptyElement2></emptyElement2>
+    </movie>
+    
+    <movie
+		collection:id="movie 2"
+      	collection:title="Title 2">
+      	<showtimes>
+      		<Showtime1>12:00</Showtime1>
+      		<Showtime2>12:00</Showtime2>
+      		<Showtime3>12:00</Showtime3>
+      	</showtimes>
+      	<emptyElement1></emptyElement1>
+      	<emptyElement2></emptyElement2>
+    </movie>
+    
+    <movie
+		collection:id="movie 3"
+      	collection:title="Title 3">
+      	<showtimes>
+      		<Showtime1>12:00</Showtime1>
+      		<Showtime2>12:00</Showtime2>
+      		<Showtime3>12:00</Showtime3>
+      	</showtimes>
+      	<emptyElement1></emptyElement1>
+      	<emptyElement2></emptyElement2>
+    </movie>
+
+    <movie
+		collection:id="movie 4"
+      	collection:title="Title 4">
+      	<showtimes>
+      		<Showtime1>12:00</Showtime1>
+      		<Showtime2>12:00</Showtime2>
+      		<Showtime3>12:00</Showtime3>
+      	</showtimes>
+      	<emptyElement1></emptyElement1>
+      	<emptyElement2></emptyElement2>
+    </movie>
+</movie_collection>
